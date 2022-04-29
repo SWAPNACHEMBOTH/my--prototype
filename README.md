@@ -8,7 +8,7 @@
 
 - Pre ordering the food
 - Avoiding long queues
-- ![IMG-20220428-WA0011 (1)](https://user-images.githubusercontent.com/97672890/165913187-9dc42b57-ef40-4e01-9862-c9ac150f8b63.jpeg)
-![20220428_124354](https://user-images.githubusercontent.com/97672890/165913309-8b7e06a3-5c20-4f8a-b064-6903f6abae58.jpg)
-![IMG-20220428-WA0015](https://user-images.githubusercontent.com/97672890/165913555-6630ef79-9f87-4a3d-aaff-d4833dc51e87.jpeg)
-![IMG-20220428-WA0017](https://user-images.githubusercontent.com/97672890/165913586-9efc2234-fb49-4a70-8147-d6cc9e46f962.jpeg)
+- ![IMG-20220428-WA0011 (1)](https://user-images.githubusercontent.com/97672890/166079772-5a30a276-9a19-4017-b6a9-ef62cf6e1311.jpeg)
+-![20220428_124354](https://user-images.githubusercontent.com/97672890/166079803-77ebefdc-6aeb-4e54-bf20-5042bbe7859d.jpg)
+-![IMG-20220428-WA0015](https://user-images.githubusercontent.com/97672890/166080033-dcd28234-c10c-4616-b3ae-08d088348084.jpeg)
+-![IMG-20220428-WA0017](https://user-images.githubusercontent.com/97672890/166080090-b97ccbd6-539a-402d-91b8-837c0e501eda.jpeg)
